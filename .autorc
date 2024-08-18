@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "angelarias2014",
+  "repo": "container--0x5yu0",
+  "name": "angelarias2014",
+  "email": "angel.arias.2014@outlook.es",
+}
